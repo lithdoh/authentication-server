@@ -1,0 +1,15 @@
+{
+  "name": "authentication-server",
+  "version": "1.0.0",
+  "description": "This is the json-server for the Angular authentication-demo app.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Mitch Klaas",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
